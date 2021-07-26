@@ -16,8 +16,7 @@
   </a>
   </p>
 
-  > (Project description)
-
+  > Authenticates the user login and provide the required material.
   ## APP PREVIEW
 
 <p align="center">
